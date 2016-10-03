@@ -46,23 +46,18 @@ Constraints
   User Class #1
   User Class #n
 
-4. Vision
-<Write a concise vision statement that summarizes the purpose and intent of the project and describes what the world will be like when the project is completed. The vision statement should reflect a balanced view that will satisfy the needs of diverse customers as well as those of the developing organization. It may be somewhat idealistic, but it should be grounded in the realities of existing or anticipated customer markets, enterprise architectures, organizational strategic directions, and cost and resource limitations. Consider using the following template:
+4. Vision:
+Para los clientes que no desean salir de casa o desean realizar algun pedido a posterior puedan obtener sus productos con solo una llamada telefonica o una compra online, el sistema de transaccion e intercomunicacion de sucursales, que es, un sistema integrado de recepcion y procesamiento de pedidos que permitira alcanzar a un mayor numero de publico que a diferencia de las alternativas tradicionales, como la atencion via telefonica, permitira tener un control preciso del inventario y una menor necesidad de personal, nuestro producto brindara una alta fiabilidad, una estructura robusta y confiable que permitira explotar datos de ventas y mantener control de los productos.
 
-For (target customer)
-Who (statement of the need or opportunity)
-The (product name)
-Is a (product category)
-That (key benefit, compelling reason to buy or use)
-Unlike (primary competitive alternatives, current system, or current business process)
-Our product (statement of primary differentiation and advantages of new product or service)>
 5. Project Scope
-<The project scope defines the range of the proposed products and services the project will deliver. Scope can be represented using a context diagram, an event list, and/or a feature table. Scope might be subdivided into the scope of the initial product release and planned growth strategies for subsequent releases. It’s also important to define what the project will not include, so describe limitations and exclusions, such as product features or characteristics that a stakeholder might anticipate, but which are not planned to be included in the project.>
+Diagrama pendiente<<<------->
+El alcance del proyecto define la gama de los productos y servicios propuestos del proyecto va a entregar. Ámbito de aplicación puede representarse mediante un diagrama de contexto, una lista de eventos, y / o una tabla de entidades. Ámbito podría subdividirse en el ámbito de la versión inicial del producto y planea estrategias de crecimiento para las versiones posteriores. También es importante definir lo que el proyecto no incluirá, por lo describa limitaciones y exclusiones, tales como las características del producto o características que una parte interesada puede prever, pero que no están previstas para ser incluido en el proyecto.
 6. Assumptions  and Dependencies
-<Record any assumptions that were made (as opposed to known facts) when conceiving the project. Note any major external dependencies the project must rely upon for success, such as specific technologies, third-party vendors, development partners, or other business relationships. Also identify any other projects that are related to this project in some way or may have a bearing on its outcome. Give each item a unique identifier, like those shown below.>
-
-AS-1:
-DE-1:
+AS-1: Se proporcionara un ambiente interno en la empresa para el desarrollo de las actividades durante el proyecto.
+AS-2: Se instalara en un entorno adecuado el sistema de base de datos y servidores web.
+AS-3: El area de logistica mantendra su informacion actualizada en todo momento.
+DE-1: Compra de 1 servidor dedicado a base de datos y web.
+DE-2: Contratado de empresa proveedora de tendido de cableado.(Claro o Telefonica)
 7. Constraints
 <Identify known project constraints, such as products to be reused, components to be acquired, interfaces to other projects or products, or technologies to be employed. Describe the priorities among the project’s features, quality objectives, schedule, staff, and budget. The following table identifies the parameters around the project’s key drivers (top priority objectives), constraints to work within, and dimensions that can be balanced against each other to achieve the drivers within the known constraints. Example:>
 
