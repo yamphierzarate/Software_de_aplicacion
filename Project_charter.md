@@ -137,6 +137,40 @@ Version
 
 
 
+Approvals
+El acta de entrega del proyecto debe estar firmada por el Gerente General  Luis Seminario de las Practi-Tiendas Tambo y debe contar con las validaciones y aprobación del área de Operaciones  de las respectivas tiendas. Asimismo, se debe contar con un informe de estudio del mercado que demuestre que no habrá un impacto desfavorable por la creación del Proyecto.
+
+•  Approved, development of detailed project plan is authorized
+•  Approved, project execution is authorized
+•  Approved, but project is on hold until future notice
+•  Revise charter and resubmit for approval
+•  Charter and project proposal are rejected
+
+
+Role or Title	Name and Signature	Date
+
+Gerente General
+	
+Luis Seminario	
+20/09/2016
+
+Gerente de Proyecto
+	
+Jose Valencia	
+30/09/2016
+
+Jefe de Operaciones	
+Miguel Castillo	
+02/10/2016
+
+RRHH	
+Carlos Sanchez	
+20/10/2016
+
+Gerente General	
+Luis Seminario	
+22/09/2016
+
 
 
 
